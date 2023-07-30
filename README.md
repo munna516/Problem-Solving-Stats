@@ -14,6 +14,6 @@
 | UVA | [munna516](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15) | 14 |
 | Spoj | [munna516](https://www.spoj.com/myaccount/) | 5 |
 | Lightoj | [munna516](https://lightoj.com/user/munna516) | 5 |
-| Total | | 5633 |
+| Total | | 730 |
 
 Last Updated: 30 July, 2023
