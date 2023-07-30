@@ -3,17 +3,17 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [munna516](https://codeforces.com/profile/munna516) | 3095 |
-| CodeChef | [munna516](https://www.codechef.com/users/munna_516) | 355 |
-| Beecroed | [munna516](https://www.beecrowd.com.br/judge/en/profile/713702) | 257 |
-| Toph | [sjshohag](https://toph.co/u/Munna516) | 173 | 
-| Vjudge | [youkn0wwho](https://vjudge.net/user/munna516) | 174 | 
-| Leetcode | [YouKnowWho](https://leetcode.com/munna516/) | 339 |
-| Atcoder | [sjshohag](https://atcoder.jp/users/munna516) | 1148 |
-| Hackerrank | [Shahjalalshohag](https://www.hackerrank.com/munna516?hr_r=1) | 19 |
-| UVA | [shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15) | 10 |
-| Spoj | [shahjalalshohag1](https://www.spoj.com/myaccount/) | 10 |
-| Lightoj | [shahjalal-shohag](https://lightoj.com/user/munna516) | 9 |
+| Codeforces | [munna516](https://codeforces.com/profile/munna516) | 261 |
+| CodeChef | [munna_516](https://www.codechef.com/users/munna_516) | 210 |
+| Beecrowd | [munna516](https://www.beecrowd.com.br/judge/en/profile/713702) | 145 |
+| Toph | [Munna516](https://toph.co/u/Munna516) | 33 | 
+| Vjudge | [munna516](https://vjudge.net/user/munna516) | 27 | 
+| Leetcode | [munna516](https://leetcode.com/munna516/) | 8 |
+| Atcoder | [munna516](https://atcoder.jp/users/munna516) | 10 |
+| Hackerrank | [munna516](https://www.hackerrank.com/munna516?hr_r=1) | 12 |
+| UVA | [munna516](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15) | 14 |
+| Spoj | [munna516](https://www.spoj.com/myaccount/) | 5 |
+| Lightoj | [munna516](https://lightoj.com/user/munna516) | 5 |
 | Total | | 5633 |
 
-Last Updated: 25 June, 2023
+Last Updated: 30 July, 2023
